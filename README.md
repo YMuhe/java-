@@ -248,6 +248,7 @@
 - 算法图解       [百度云下载链接](https://pan.baidu.com/s/1RhdhLcX3hmE0wvNHxgXOAw)  密码:685s
 - Java 数据结构和算法       [百度云下载链接](https://pan.baidu.com/s/1d8gX-_4iyayZO_PXZwK9sw)  密码:qupj
 - BAT LeetCode 刷题手册       [百度云下载链接](https://pan.baidu.com/s/12RT8pRk6OUNa1PuYkqZliw)  密码:8w3m
+- labuladong 的算法小抄手工重制版       [百度云下载链接](https://pan.baidu.com/s/1U71FTAGPBFwJlzsuqzsSOA)  密码:jpxa
 
 
 # 面试
