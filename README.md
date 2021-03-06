@@ -103,17 +103,14 @@
 - Eclipse 插件开发学习笔记       [百度云下载链接](https://pan.baidu.com/s/1QmnVfn8iAR0ZnymnFHHTYw)  密码:ri78
 - 日志系统手册（Log4j、SLF4J、Logback、Log4j 2）       [百度云下载链接](https://pan.baidu.com/s/1dPwsQhT5OMVapE7hGi7vww)  密码:fxxy
 - IntelliJ IDEA 简体中文专题教程（电子版-2015）       [百度云下载链接](https://pan.baidu.com/s/1zyTQ_clx-lLFhjHvakJYBQ)  密码:wskm
-- GitHub入门与实践       [百度云下载链接](https://pan.baidu.com/s/1v7vAOLctPp3R_eGgjH02Rg)  密码:kidr
+- GitHub 入门与实践       [百度云下载链接](https://pan.baidu.com/s/1v7vAOLctPp3R_eGgjH02Rg)  密码:kidr
+- Vim 中文手册       [百度云下载链接](https://pan.baidu.com/s/1P7J1LX8ry7z_rfDAx9EMPA) 密码:48dw
 
 # 框架
 
 - SpringMVC 入门指南松哥版       [百度云下载链接](https://pan.baidu.com/s/1gb9biSZoIXh3Au-kT5pkrw)  密码:1j0h
 - MyBatis 入门指南松哥版       [百度云下载链接](https://pan.baidu.com/s/1I6wIKTpLJRmZrcAUdw0B-g)  密码:7zj7
 - Hibernate 实战       [百度云下载链接](https://pan.baidu.com/s/195sp0sK2vGOJAMBTfVwHrQ)  密码:piv6
-
-## Struts2
-
-- 开发技巧和整合策略-Struts2       [百度云下载链接](https://pan.baidu.com/s/1f_iot1ryVTNJvhK6lDod5Q)  密码:htn3
 
 ## Spring
 
@@ -126,7 +123,6 @@
 - Netty 进阶之路 跟着案例学       [百度云下载链接](https://pan.baidu.com/s/1jg4BGtw8kFrH7nKBIo0TtA)  密码:iwij
 - Netty 权威指南       [百度云下载链接](https://pan.baidu.com/s/1cjDt7j3KiQ-pNyB8AF7CBQ)  密码:4n6n
 - Netty 实战       [百度云下载链接](https://pan.baidu.com/s/1mBEwTjs-e-TQXKGwjx2dcg)  密码:gy3p
-
 
 
 # 数据库
@@ -153,7 +149,6 @@
 ## MongoDB
 
 - MongoDB 权威指南       [百度云下载链接](https://pan.baidu.com/s/1mTlTzrVG5P-C0iXUz780Fg)  密码:zivs
-
 - 数据库系统基础教程       [百度云下载链接](https://pan.baidu.com/s/10aDnMcJiFooUEssYajBUmQ)  密码:nmee
 - 自己动手设计数据库       [百度云下载链接](https://pan.baidu.com/s/1ab0dwoxmpHU7BYPuDFLnSA)  密码:tj8g
 - SQL+Server+2008 实战       [百度云下载链接](https://pan.baidu.com/s/1jFssmyZd0jm7-v4N3VjIoQ)  密码:5m2v
@@ -188,6 +183,7 @@
 # 设计模式
 
 - 23 种设计模式知识要点       [百度云下载链接](https://pan.baidu.com/s/1wBw49oxHGcqEEVZBdy8u8A)  密码:w55h
+- 重学设计模式       [百度云下载链接](https://pan.baidu.com/s/1OOOfenWK3ibHpjj_65sILg) 密码:kfwl 
 
 # 操作系统
 
@@ -249,17 +245,17 @@
 - Java 数据结构和算法       [百度云下载链接](https://pan.baidu.com/s/1d8gX-_4iyayZO_PXZwK9sw)  密码:qupj
 - BAT LeetCode 刷题手册       [百度云下载链接](https://pan.baidu.com/s/12RT8pRk6OUNa1PuYkqZliw)  密码:8w3m
 - labuladong 的算法小抄手工重制版       [百度云下载链接](https://pan.baidu.com/s/1U71FTAGPBFwJlzsuqzsSOA)  密码:jpxa
+- Google 师兄的刷题笔记       [百度云下载链接](https://pan.baidu.com/s/1ojBerkBfgMFpYcj-JfDKlw)  密码:5ttz
 
 
 # 面试
 
 - 2020年字节跳动Java 工程师面试题       [百度云下载链接](https://pan.baidu.com/s/1i0YAOKxUl59wP_9yKbeOKA)  密码:iozq
-- Google 师兄的刷题笔记       [百度云下载链接](https://pan.baidu.com/s/1ojBerkBfgMFpYcj-JfDKlw)  密码:5ttz
 - BAT面试常问80题       [百度云下载链接](https://pan.baidu.com/s/1l7UnWRdPwoQEINhHUmOmFw)  密码:c54x
 - 一线互联网企业面试题       [百度云下载链接](https://pan.baidu.com/s/11Nn8dLzh4npR02FWZSGGbA)  密码:wjrr
 - 编程之美       [百度云下载链接](https://pan.baidu.com/s/1sMG_Kp66XVRidLNFNd2Znw)  密码:ng5q
 - 程序员面试宝典       [百度云下载链接](https://pan.baidu.com/s/1fFVY_-grQjClqnI22QQXDA)  密码:6rr8
-- 剑指Offer：名企面试官精讲典型编程题       [百度云下载链接](https://pan.baidu.com/s/14knPPFXiEmxivaS3g0V86w)  密码:lbsn
+- 剑指 Offer：名企面试官精讲典型编程题       [百度云下载链接](https://pan.baidu.com/s/14knPPFXiEmxivaS3g0V86w)  密码:lbsn
 - 程序员代码面试指南 IT名企算法与数据结构题目最优解       [百度云下载链接](https://pan.baidu.com/s/1s1EA_hrzSnVsQYos4N_cYA)  密码:0djm
 - 如何刷力扣       [百度云下载链接](https://pan.baidu.com/s/1q9n68HzyjoqnUBnMZxCDQg)  密码:h14s
 - 力扣最优解       [百度云下载链接](https://pan.baidu.com/s/1MQwORt4unKtudXXAOxZt-Q)  密码:o28k
