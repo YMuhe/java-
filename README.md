@@ -246,6 +246,7 @@
 - BAT LeetCode 刷题手册       [百度云下载链接](https://pan.baidu.com/s/12RT8pRk6OUNa1PuYkqZliw)  密码:8w3m
 - labuladong 的算法小抄手工重制版       [百度云下载链接](https://pan.baidu.com/s/1U71FTAGPBFwJlzsuqzsSOA)  密码:jpxa
 - Google 师兄的刷题笔记       [百度云下载链接](https://pan.baidu.com/s/1ojBerkBfgMFpYcj-JfDKlw)  密码:5ttz
+- Java 版的 LeetCode 刷题笔记       [百度云下载链接](https://pan.baidu.com/s/1xe3r8qDuKE99p2ZD9w2XrQ)  密码:xs23
 
 
 # 面试
