@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T05:40:25.083Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="alo2qGyFjlLlpk6-jyCl" version="14.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-13T02:19:45.206Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="4Pe_9Di_nXZT1Hm99gh6" version="14.5.3" type="github" pages="2">
   <diagram id="diSPx6sxwbUCZ3BAV0dR" name="Page-1">
-    <mxGraphModel dx="1218" dy="777" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="1">
+    <mxGraphModel dx="1203" dy="736" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1060,8 +1060,8 @@
         <mxCell id="nzw4-d9p4zg1vYV4NsZs-225" value="运行时数据区&lt;br&gt;Runtime Data Area" style="rounded=0;whiteSpace=wrap;html=1;glass=0;comic=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=14;opacity=30;align=center;" vertex="1" parent="1">
           <mxGeometry x="-309" y="6060" width="316" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nzw4-d9p4zg1vYV4NsZs-230" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;comic=1;strokeColor=#666666;fillColor=#f5f5f5;fontSize=14;opacity=30;align=center;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-374" y="6215" width="520" height="545" as="geometry" />
+        <mxCell id="nzw4-d9p4zg1vYV4NsZs-230" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;comic=1;fontSize=14;opacity=30;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-374" y="6215" width="520" height="438" as="geometry" />
         </mxCell>
         <mxCell id="nzw4-d9p4zg1vYV4NsZs-232" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;comic=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=14;opacity=30;align=center;" vertex="1" parent="1">
           <mxGeometry x="-362" y="6271" width="496" height="373" as="geometry" />
@@ -1078,7 +1078,7 @@
         <mxCell id="nzw4-d9p4zg1vYV4NsZs-236" value="堆" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;comic=1;fontSize=14;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="-288.5" y="6363" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nzw4-d9p4zg1vYV4NsZs-237" value="运行时常量池" style="rounded=1;whiteSpace=wrap;html=1;glass=0;comic=1;fontSize=14;opacity=30;align=center;" vertex="1" parent="1">
+        <mxCell id="nzw4-d9p4zg1vYV4NsZs-237" value="字符串常量池" style="rounded=1;whiteSpace=wrap;html=1;glass=0;comic=1;fontSize=14;opacity=30;align=center;" vertex="1" parent="1">
           <mxGeometry x="-336" y="6552" width="139" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nzw4-d9p4zg1vYV4NsZs-238" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;glass=0;comic=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=14;opacity=30;align=center;" vertex="1" parent="1">
@@ -1087,32 +1087,47 @@
         <mxCell id="nzw4-d9p4zg1vYV4NsZs-257" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nzw4-d9p4zg1vYV4NsZs-238">
           <mxGeometry width="256" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nzw4-d9p4zg1vYV4NsZs-258" value="栈" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="nzw4-d9p4zg1vYV4NsZs-257">
-          <mxGeometry width="256" height="40" as="geometry" />
+        <mxCell id="nzw4-d9p4zg1vYV4NsZs-285" value="本地方法栈" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="nzw4-d9p4zg1vYV4NsZs-257">
+          <mxGeometry width="128" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzw4-d9p4zg1vYV4NsZs-258" value="Java 虚拟机栈" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="nzw4-d9p4zg1vYV4NsZs-257">
+          <mxGeometry x="128" width="128" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nzw4-d9p4zg1vYV4NsZs-239" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nzw4-d9p4zg1vYV4NsZs-238">
           <mxGeometry y="40" width="256" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nzw4-d9p4zg1vYV4NsZs-286" value="栈帧 1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="nzw4-d9p4zg1vYV4NsZs-239">
+          <mxGeometry width="128" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="nzw4-d9p4zg1vYV4NsZs-240" value="栈帧 1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="nzw4-d9p4zg1vYV4NsZs-239">
-          <mxGeometry width="256" height="40" as="geometry" />
+          <mxGeometry x="128" width="128" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nzw4-d9p4zg1vYV4NsZs-263" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nzw4-d9p4zg1vYV4NsZs-238">
           <mxGeometry y="80" width="256" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nzw4-d9p4zg1vYV4NsZs-287" value="栈帧 2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="nzw4-d9p4zg1vYV4NsZs-263">
+          <mxGeometry width="128" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="nzw4-d9p4zg1vYV4NsZs-264" value="栈帧 2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="nzw4-d9p4zg1vYV4NsZs-263">
-          <mxGeometry width="256" height="40" as="geometry" />
+          <mxGeometry x="128" width="128" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nzw4-d9p4zg1vYV4NsZs-243" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nzw4-d9p4zg1vYV4NsZs-238">
           <mxGeometry y="120" width="256" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nzw4-d9p4zg1vYV4NsZs-288" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="nzw4-d9p4zg1vYV4NsZs-243">
+          <mxGeometry width="128" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="nzw4-d9p4zg1vYV4NsZs-244" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="nzw4-d9p4zg1vYV4NsZs-243">
-          <mxGeometry width="256" height="40" as="geometry" />
+          <mxGeometry x="128" width="128" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nzw4-d9p4zg1vYV4NsZs-247" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nzw4-d9p4zg1vYV4NsZs-238">
           <mxGeometry y="160" width="256" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nzw4-d9p4zg1vYV4NsZs-289" value="栈帧 N" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="nzw4-d9p4zg1vYV4NsZs-247">
+          <mxGeometry width="128" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="nzw4-d9p4zg1vYV4NsZs-248" value="栈帧 N" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="nzw4-d9p4zg1vYV4NsZs-247">
-          <mxGeometry width="256" height="40" as="geometry" />
+          <mxGeometry x="128" width="128" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nzw4-d9p4zg1vYV4NsZs-279" value="Java 虚拟机内存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;comic=1;fontSize=14;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="-205" y="6300" width="182" height="20" as="geometry" />
