@@ -105,6 +105,8 @@
 - IntelliJ IDEA 简体中文专题教程（电子版-2015）       [百度云下载链接](https://pan.baidu.com/s/1zyTQ_clx-lLFhjHvakJYBQ)  密码:wskm
 - GitHub 入门与实践       [百度云下载链接](https://pan.baidu.com/s/1v7vAOLctPp3R_eGgjH02Rg)  密码:kidr
 - Vim 中文手册       [百度云下载链接](https://pan.baidu.com/s/1P7J1LX8ry7z_rfDAx9EMPA) 密码:48dw
+- Pro Git 中文版       [百度云下载链接](https://pan.baidu.com/s/13Fc0krGLYu7z1QVm9HpfRA) 密码:75gd
+
 
 # 框架
 
