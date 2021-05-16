@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-16T23:59:31.320Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="wVWJcKV-X8hCP8ZhCaC8" version="14.6.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-16T23:59:48.882Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="V_aFil3y57uHKPWy8BQ_" version="14.6.11" type="github" pages="2">
   <diagram id="diSPx6sxwbUCZ3BAV0dR" name="Page-1">
     <mxGraphModel dx="1222" dy="889" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="1">
       <root>
@@ -1657,7 +1657,7 @@
         <mxCell id="J0Q_JB0YUcRMI2LP1LVQ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="85" y="9804" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J0Q_JB0YUcRMI2LP1LVQ-4" value="常量池" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="J0Q_JB0YUcRMI2LP1LVQ-4" value="堆：Heap" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="85" y="9684" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J0Q_JB0YUcRMI2LP1LVQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="J0Q_JB0YUcRMI2LP1LVQ-5" target="J0Q_JB0YUcRMI2LP1LVQ-1">
