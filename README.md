@@ -86,7 +86,7 @@
 
 # 入门
 
-- 教妹学Java       [百度云下载链接](https://pan.baidu.com/s/1qwomiFHW6vZdVo26heMctg)  密码:1thn
+- 教妹学Java       [百度云下载链接](https://pan.baidu.com/s/1UkyKSmQ_oabpY6HJZyl7pw)  密码:v0i5
 - Java 8 实战       [百度云下载链接](https://pan.baidu.com/s/1h377QitObb4cbwXgTuV8Ww) 提取码:nfbm 
 - Java 核心知识点整理       [百度云下载链接](https://pan.baidu.com/s/1AkY43NQeejg4SON8PtSnOg) 提取码:e6tl 
 - Java 基础核心总结       [百度云下载链接](https://pan.baidu.com/s/1vFDVc214I00m3VGbZkHxLA) 提取码:x2qi 
